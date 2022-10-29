@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MYANMAR C+", Canal+ Sport 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941755&extension=ts&play_token=EsigBOh3mS
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MYANMAR C+", Canal+ Sport 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941754&extension=ts&play_token=EsigBOh3mS
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MYANMAR C+", Canal+ Susan
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941762&extension=ts&play_token=LHlRd2ubEO
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MYANMAR C+", Canal+ Maemadi
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941761&extension=ts&play_token=joS3isYhoY
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MYANMAR C+", Canal+ Action
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941760&extension=ts&play_token=8gPEDmimXy
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MYANMAR C+", Canal+ Zatlan
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941759&extension=ts&play_token=UBKsRZi5v3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MYANMAR C+", Canal+ Pututu
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941756&extension=ts&play_token=2Tioi8umkG
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MYANMAR C+", Canal+ Chatate
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941757&extension=ts&play_token=532yioqS0t
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MYANMAR C+", Thukhuma 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941738&extension=ts&play_token=vNCEivKfQm
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MYANMAR C+", Thukhuma 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941739&extension=ts&play_token=EsigBOh3mS
